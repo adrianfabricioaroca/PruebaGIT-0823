@@ -4,5 +4,6 @@
 int main()
 {
     printf("Holis world!\n");
+    printf("Chauchis world!\n");
     return 0;
 }
