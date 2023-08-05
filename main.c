@@ -8,5 +8,7 @@ int main()
 
     int nro = 10;
 
+    char letra;
+
     return 0;
 }
