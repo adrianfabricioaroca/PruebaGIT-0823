@@ -10,5 +10,7 @@ int main()
 
     char letra;
 
+    int flag = 0;
+
     return 0;
 }
